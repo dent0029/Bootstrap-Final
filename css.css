@@ -158,14 +158,6 @@ a {
     float: right;
 }
 
-
-.img-responsive {
-    width: 200px;
-    height: 200px;
-    display: block;
-    vertical-align: middle;
-}
-
 .footer {
     clear: both;
     background-color: #FFBD97
